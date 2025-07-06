@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<AutopsyCase>
+  <SchemaVersion>6.0</SchemaVersion>
+  <CreatedDate>2025/07/06 15:10:38 (WAT)</CreatedDate>
+  <ModifiedDate>2025/07/06 15:10:57 (WAT)</ModifiedDate>
+  <CreatedByAutopsyVersion>4.22.1</CreatedByAutopsyVersion>
+  <SavedByAutopsyVersion>4.22.1</SavedByAutopsyVersion>
+  <Case>
+    <Name>grace_pepple__first_investigation_20250706_151038</Name>
+    <DisplayName>Grace Pepple_ First Investigation</DisplayName>
+    <Number>060725</Number>
+    <Examiner>Grace Pepple</Examiner>
+    <ExaminerPhone>07032738811</ExaminerPhone>
+    <ExaminerEmail>biebeleiritamunogha@gmail.com</ExaminerEmail>
+    <CaseNotes>This is my first investigtion</CaseNotes>
+    <CaseType>Single-user case</CaseType>
+    <Database/>
+    <CaseDatabase>autopsy.db</CaseDatabase>
+    <TextIndex/>
+  </Case>
+  <ContentProvider>
+    <Name/>
+  </ContentProvider>
+  <OriginalCase/>
+</AutopsyCase>
